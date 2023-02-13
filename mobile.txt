@@ -1,0 +1,3 @@
+Name : realme
+version : 4.1
+RAM : 4GB
